@@ -1,0 +1,26 @@
+body {
+    text-align: center;
+    background-color: yellow;
+    border: solid white;
+}
+.input {
+    border: solid white 2px;
+}
+ul {
+    list-style: none;
+}
+input {
+    font-size: 20px;
+    margin-top: 20px;
+    border-radius: 5px;
+}
+h2 { color: white;
+    text-align: justify;
+    background-color: black;
+    display: inline;
+}
+.button {
+    border-radius: 8px;
+    background-color: black;
+    color:white;
+}
