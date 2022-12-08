@@ -1,25 +1,30 @@
-body {
+body {  
     text-align: center;
     background-color: yellow;
-    border: solid white;
+    border: solid white 2px;
 }
-.input {
+.input { 
     border: solid white 2px;
 }
 ul {
     list-style: none;
 }
-input {
-    font-size: 20px;
-    margin-top: 20px;
-    border-radius: 5px;
+input { 
+    width: 90%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    box-sizing: border-box;
+
+    outline: none;
+    
+
 }
 h2 { color: white;
     text-align: justify;
     background-color: black;
     display: inline;
 }
-.button {
+.button {border: solid black;
     border-radius: 8px;
     background-color: black;
     color:white;
